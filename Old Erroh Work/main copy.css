@@ -1,0 +1,391 @@
+
+			
+			@font-face { font-family: 'PoiretOne-Regular'; src: url('fonts/PoiretOne-Regular.ttf'); } 
+			@font-face { font-family: 'PoiretOne-Regular'; src: url('fonts/PoiretOne-Regular.ttf');}
+
+												
+			/* CSS Styles */
+			
+			.htmlbody{
+				margin: 0;
+				background-color:#316AF3; 
+				
+			}
+			
+			.htmlbodyWhite{
+				background-color: white;
+			}
+			
+			
+			
+			
+			
+			h4, h2, .steps, .problemDecription{
+				color: white;
+				font-family: 'Raleway', sans-serif;
+				width: 900px;
+				
+			}
+			
+			h2{
+				margin-top: 0;
+			}
+			
+			.note{
+				color: grey;
+				font-family: 'Raleway', sans-serif;
+				width: 900px;
+				margin-left: 20px;
+			}
+			
+			a{
+				color: white;
+			}
+			
+			li{
+				margin-bottom: 10px;
+			}
+			
+			
+						
+			#logo{
+				width: 90px;
+				height:60px;
+				background-image: url("images/Logo.png");
+				background-size: cover;
+				margin: 30px 0px 0px 150px;
+				animation: fade 700ms ease-in-out;
+				float: left;
+			}
+			
+			
+			
+			#single{
+				margin: 0 auto;
+			}
+			
+		
+			
+			.teachers{
+				float: right;
+				color: white;
+				font-family: "Raleway", sans-serif;
+				height: 40px;
+				width: 150px;
+				margin: 28px 150px 0 0;
+				font-size: 90%;
+				border: 1px solid white;
+				border-radius: 3px;
+				transition: background-color .2s ease-in;
+			}
+			
+			.teachersP {
+				position: relative;
+				margin-left: -28px;
+				left: 48%;
+				bottom: 8%;
+				-moz-transition: color .2s ease-in;
+				-o-transition: color .2s ease-in;
+				-webkit-transition: color .2s ease-in;
+				transition: color .2s ease-in;
+				
+			}
+			
+			.teachers:hover{
+				color:#151414;
+				background-color: white;
+			}
+			
+			.TeachermarginLeft{
+				margin-left: -18px;
+				
+				
+			}
+			
+			.teachersBlue{
+				color: white;
+			}
+			
+			.teachersBlue:hover{
+				color:#2C65F7;
+				
+			}
+
+
+			
+			.window{
+				transition:0.5s ease;
+				width: 100%;
+				background-color: #151414;	
+				//background-image: url("images/Teacher_background.png");
+				background-size: cover;
+			}
+			
+			.header{
+				-webkit-transition: opacity 1s ease-in-out;
+				-moz-transition: opacity 1s ease-in-out;
+			    -o-transition: opacity 1s ease-in-out;
+		    	transition: opacity 1s ease-in-out;
+			}
+			
+			.headerPic{
+				background-image: url('images/Teacher_background.png');
+				background-size: cover;
+			}
+			
+			.windowWhite{
+				background-color:white;
+			}
+			
+			
+			
+			
+			#menu{
+				width: 99.5%;
+
+			}
+			
+			.menus{
+				height: 7%;
+			}
+						
+			
+			#iflogo{
+				width: 280px;
+				height: 160px;
+				background-image: url("images/Logo.png");
+				background-size: cover;
+				position: absolute;
+			    margin: auto;
+			    top: 0;
+			    right: 0;
+			    bottom: 0;
+			    left: 0;
+			    animation: fade 1000ms ease-in-out;
+
+			}
+			
+			
+			
+			
+			
+			
+			.h1{
+				color: white;
+				font-family: 'Nunito', sans-serif;
+				padding: 0 0 0 150px;
+				font-size: 570%;
+				width: 400px; 
+				float: left;
+				position: relative;
+				top: 45%;
+				margin-top:-20px;
+			}
+			
+			.h1Blue{
+				color: #316AF3;
+				
+			}
+			
+			
+		
+			
+			
+			
+			.CTA{
+				height:50px;
+				width: 200px;
+				color:white;
+				font-family: "Raleway", sans-serif;
+				margin: 60px 0 0 150px; 
+				background-color: #316AF3;
+				border-radius: 3px;
+				transition: background-color .2s ease-in;
+			}
+			
+			.CTA:hover{
+				background-color: #5080f1;
+			}
+			
+			
+			
+			.CTAwhite{
+				background-color: white;
+			}
+			
+			.CTAwhite:hover{
+				background-color: #aac0f2;
+			}
+			
+			.CTApBlue{
+				color:#2C65F7;
+			}
+
+			
+			
+			.line{
+				height: 1px;
+				margin: 0 auto;
+				
+				
+			}
+			
+			
+			
+			.startedBlue{
+				background-color: #316AF3;
+			}
+			
+			.lineBlue{
+				background-color:#316AF3;
+				margin-top: 5%;
+				height: 1px;
+				transition:background-color 0.5s ease;
+			}
+			
+			.lineWhite{
+				background-color: white;
+				
+			}
+			
+			#lineApple{
+				background-color: #20A9BB;
+				margin-top: 755px;
+			}
+			
+			
+			
+						
+			.device{
+				width: 200px;
+				height: 57px;
+				border-radius: 5px;
+				background-color: #356EEF;
+				font-family: 'Raleway', sans-serif;
+				color: white;
+				margin-top: 130px;
+				margin-right: 110px;
+				float: left;
+				-moz-transition: background-color .2s ease-in;
+				-o-transition: background-color .2s ease-in;
+				-webkit-transition: background-color .2s ease-in;
+				transition: background-color .2s ease-in;
+				
+				
+				
+				
+				
+			}
+			
+			.device:hover{
+				background-color:#7697f2;
+			}
+			
+			.appleRestart{
+				width: 513px;
+				height: 57px;
+				border-radius: 5px;
+				background-color: #f74551;
+				font-family: 'Raleway', sans-serif;
+				color: white;
+				margin-top: 130px;
+				margin-right: 110px;
+				float: left;
+				-moz-transition: background-color .2s ease-in;
+				-o-transition: background-color .2s ease-in;
+				-webkit-transition: background-color .2s ease-in;
+				transition: background-color .2s ease-in;
+			}
+			
+			.appleRestart:hover{
+				background-color: #c33a3a;
+			}
+			
+			.restartWords{
+				width: 63px;
+				margin: 0 auto;
+				font-size: 130%;
+				padding-top: 15px;
+			}
+			
+			.note{
+				color: grey;
+			}
+			
+			
+			
+			.ipadContinuityWords{
+				width: 83px;
+			}
+			
+			
+			
+			.apple{
+				//background-color: #20A9BB;
+				-moz-transition: background-color .2s ease-in;
+				-o-transition: background-color .2s ease-in;
+				-webkit-transition: background-color .2s ease-in;
+				transition: background-color .2s ease-in;
+				
+				
+				
+			}
+		
+			
+			.apple:hover{
+				//background-color: #075c67;
+				
+			}
+			
+
+			
+			#appleWatch:hover span{
+				display: none;
+			}
+			
+			
+			#appleWatch:hover:before{
+				content: "Coming Soon";
+				
+			}
+			
+			
+			
+			.words{
+				margin: 0 auto;
+				padding-top: 15px;
+				font-size: 120%;
+			}
+			
+			#devicesContainer{
+				width: 650px;
+				height: 682px;
+				float: right;
+				position: relative;
+				top: 38%;
+				margin-top: -341px;
+			}
+			
+			#iphonePic{
+				background-image: url("images/icons/iphone.svg"); background-size: cover; width: 100px; height: 176px;margin: 0 auto;
+				margin-top: 20px;
+				margin-bottom: 70px;
+			}
+			
+			.margin{
+				margin: 0 auto;
+			}
+			
+			#appleLogo{
+				float: left;
+				background-image: url("images/icons/Apple_logo_white_outline.svg");
+				background-size: cover;
+				width: 211.3px;
+				height: 250px;
+			}
+			
+			
+			
+			
+			
+

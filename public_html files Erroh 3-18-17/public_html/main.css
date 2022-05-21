@@ -1,0 +1,802 @@
+body, html{
+	margin: 0;
+
+}
+
+
+
+.header{
+	width: 100%;
+	background: #356EEF; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left, #356EEF , #65C8D0); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, #356EEF, #65C8D0); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, #356EEF, #65C8D0); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, #356EEF , #65C8D0); /* Standard syntax */
+}
+
+.navbar{
+	height: 85px;
+	width: 100%;
+	position: relative;
+	top:-85px;
+	opacity: .5;
+	
+}
+
+.navContainer{
+	margin: 0 auto;
+	//background-color: red;
+	height: 100%;
+	border-bottom: 1px solid #66CCFF;
+	
+}
+
+.sublistContinuityli{
+	position: relative;
+	right: 30px;
+}
+
+.navbarContentAfter{
+	
+	background-color: #3E7AE8;
+}
+
+.load-animate1{
+	position: relative;
+	display: none;
+}
+
+.load-animate2{
+	position: relative;
+	display: none;
+}
+
+.load-animate3{
+	position: relative;
+	display: none;
+}
+
+.nav-load-animate{
+	position: relative;
+	display: none;
+}
+
+
+
+.logo{
+	width: 90px;
+	height: 60px;
+	float: left;
+	margin-top: 20px;
+	list-style: none;
+}
+
+.navContent{
+	font-family: 'Varela Round', sans-serif;
+	color: white;
+	font-size: 18px;
+	-moz-transition: color .2s ease-in;
+	-o-transition: color .2s ease-in;
+	-webkit-transition: color .2s ease-in;
+	transition: color .2s ease-in;
+	float: right;
+	list-style: none;
+	margin-right: 40px;
+	padding-top: 35px;
+
+
+}
+
+.navContent a{
+	text-decoration: none;
+	color: white;
+	-moz-transition: color .2s ease-in;
+	-o-transition: color .2s ease-in;
+	-webkit-transition: color .2s ease-in;
+	transition: color .2s ease-in;
+}
+
+
+.navContent:hover{
+	color: #cacbcd;
+}
+
+.navContent a:hover{
+	color: #cacbcd;
+}
+
+.phrase{
+	margin: 0 auto;
+	width: 438px;
+	padding-top: 140px;
+}
+
+.phrase h1{
+	font-family: 'Varela Round', sans-serif;
+	color: white;
+	font-size: 58px;
+	margin: 0px auto;
+	width: 440px;
+	text-align: center;
+	font-weight: 400;
+}
+
+.small-explain{
+	margin: 0 auto;
+	padding-top: 60px;
+}
+
+.small-explain p{
+	font-family: 'Varela Round', sans-serif;
+	color: white;
+	font-size: 18px;
+	margin: 0 auto;
+	text-align: center;
+	font-weight: 400;
+}
+
+.CTA{
+	border-radius: 3px;
+	width: 350px;
+	height: 45px;
+	margin: 0 auto;
+	margin-top:60px;
+	background-image: #C928BC;
+	background: -webkit-linear-gradient(left, #C32ECE , #E61269); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, #C32ECE, #E61269); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, #C32ECE, #E61269); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, #C32ECE , #E61269); /* Standard syntax */
+	//transition: all .2s ease-in-out;
+
+}
+
+.CTAafter{
+	border-radius: 3px;
+	width: 350px;
+	height: 45px;
+	margin: 0 auto;
+	margin-top:60px;
+	background-image: #C928BC;
+	background: -webkit-linear-gradient(left, #C32ECE , #E61269); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, #C32ECE, #E61269); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, #C32ECE, #E61269); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, #C32ECE , #E61269); /* Standard syntax */
+	transition: all .2s ease-in-out;
+}
+
+.CTAafter:hover{
+	transform: scale(1.1); 
+}
+
+.CTA p{
+	font-size: 20px;
+	font-family: 'Raleway', sans-serif;
+	color: white;
+	margin: 0 auto;
+	margin-top: 30px;
+	width: 104px;
+	text-align: center;
+	position: relative;
+	top: 20%;
+	
+}
+
+.featuresWindow{
+	width: 100%;
+}
+
+h3{
+	font-family: 'Varela Round', sans-serif;
+	font-size: 2vw;
+	margin: 0 auto;
+	font-weight: 400;
+	padding-top: 120px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+/*.featrues h3{
+	width: 473px;
+}
+
+.timeFeature{
+	width: 180px;
+	margin-top: 150px;
+	 position: relative;
+	 left: 20px;
+}
+
+.timeFeatureIcon{
+	width: 130px;
+	height: 130px;
+	background-size: cover;
+	background-image: url("images/icons/Clock.svg");
+	margin: 0 auto;
+	
+	
+}
+
+.timeFeature p{
+	width: 175px;
+	//padding-top: 45px;
+	
+}
+
+.FeatureText{
+	text-align: center;
+	color: black;
+	margin: 0 auto;
+	font-family: "Muli", sans-serif;
+	font-size: 13px;
+	padding-top: 35px;
+}
+
+.teacherFeature{
+	width: 180px;
+	margin: 0 auto;
+	position: relative;
+	bottom: 288px;
+}
+
+.teacherFeatureIcon{
+	width: 171px;
+	height: 130px;
+	background-size: cover;
+	background-image: url("images/icons/Teachers.svg");
+	margin: 0 auto;
+}
+
+.teacherFeature p{
+	width: 160px;
+	//padding-top: 35px;
+}
+
+.businessFeature{
+	position: relative;
+	width: 30%;
+	height: 26%;
+	float: right;
+	bottom: 585px;
+	
+}
+
+.businessFeature p{
+	margin: 0 auto;
+	width: 160px;
+	//padding-top: 40px;
+}
+
+.businessFeatureIcon{
+	width: 230px;
+	height: 130px;
+	background-size: cover;
+	background-image: url("images/icons/Business.svg");
+	margin: 0 auto;
+}*/
+
+.articlesFeature{
+	height: 374px;
+	width: 527px;
+	position: relative;
+	top: 50%;
+	margin-right: 0;
+	float: right;
+	margin-top: -187px;
+}
+
+.featuresContainer{
+	width: 85%;
+	margin: 0 auto;
+	//background-color: red;
+	height: 100%;
+}
+
+
+
+.featuresTextContainer{
+	text-align: left;
+	width: 410px;
+	height: 456px;
+	float: left;
+	position: relative;
+	top: 50%;
+	margin-top: -226px;
+	
+}
+
+.featuresTextContainer h3{
+	padding-top:0; 
+	text-align: left;
+	font-size: 30px;
+}
+
+.featuresText{
+	font-family: 'Raleway', sans-serif;
+	color: black;
+	float: left;
+	margin-top: 20px;
+}
+
+.ipadCall{
+	float: left;
+	width: 67%;
+	margin-left: 243px;
+	position: relative;
+	bottom: 20px;
+}
+
+.text-align-left{
+	text-align: left;
+	font-family: 'Varela Round', sans-serif;
+}
+
+a {
+	color: #cacbcd;
+}
+
+
+
+
+.ipadCat{
+	margin-left: -25px;
+	width: 50px;
+	margin-top: 0px;
+}
+
+.ipadCatLists{
+	text-align: left;
+	text-decoration: none;
+	color: white;
+	font-family: "Varela Round", sans-serif;
+	list-style: none;
+	-moz-transition: color .2s ease-in;
+	-o-transition: color .2s ease-in;
+	-webkit-transition: color .2s ease-in;
+	transition: color .2s ease-in;
+	
+	
+	
+}
+
+.ipadCatLists:hover{
+	color: #cacbcd;
+
+}
+
+.sublistContinuity{
+	padding-left: 30px;
+	width: 100px;
+}
+
+.white{
+	color: white;
+}
+
+.raleway{
+	font-family: "raleway", sans-serif;
+}
+
+
+
+
+
+.homeTech{
+	background: #E6005D; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left, #F07D53 , #E6005D); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, #F07D53, #E6005D); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, #F07D53, #E6005D); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, #F07D53 , #E6005D); /* Standard syntax */
+	
+}
+
+.homeOverflow{
+	background: #E6005D; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left, #F07D53 , #E6005D); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, #F07D53, #E6005D); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, #F07D53, #E6005D); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, #F07D53 , #E6005D); /* Standard syntax */
+}
+
+.homeTech h1{
+	font-family: "Nunito", sans-serif;
+	font-size: 4vw;
+	color: white;
+	width: 20%;
+	text-align: left;
+	margin-left: 17%;
+	padding-top: 25px;
+	margin-top: 0;
+	float: none;
+	
+}
+
+.homeTechDevices{
+	margin: 0 auto;
+	height: 120px;
+	width: 67%;
+}
+
+.HomeNavContent{
+	margin-right: 40px;
+	top: 60px;
+	color: white;
+	list-style: none;
+	font-family: "Nunito", sans-serif;
+	float: right;
+	position: relative;
+	right: 200px;
+	-moz-transition: color .2s ease-in;
+	-o-transition: color .2s ease-in;
+	-webkit-transition: color .2s ease-in;
+	transition: color .2s ease-in;
+}
+
+.HomeNavContent:hover{
+	color: #cacbcd;
+}
+
+.device{
+	transition: all .2s ease-in-out;
+	position: relative;
+	top: 50px;
+	left: 13px;
+}
+
+.ipadHotspot{
+	float: left;
+	width: 67%;
+	margin-left: 243px;
+	position: relative;
+	bottom: 20px;
+}
+
+.autoUnlock{
+	float: left;
+	width: 67%;
+	margin-left: 243px;
+	position: relative;
+	bottom: 20px;
+}
+
+.device:hover{
+	transform: scale(1.1); 
+}
+
+.Container{
+	width: 33%;
+	float: left;
+	
+}
+
+img{
+	width: 170px;
+	height: 250px;
+	display: inline-block;
+	transition: all .2s ease-in-out;
+	margin-left: 0%; 
+	margin-right: 75px;
+}
+
+.teachersExplain h3{
+	width: 40%;
+	padding-top: 0;
+	margin: 0;
+	float: right;
+	margin-right: 100px;
+	position: relative;
+	top: 225px;
+	font-size: 37px;
+}
+
+.tExplainIcon{
+	width: 20%;
+	height: 30%;
+	position: relative;
+	top: 160px;
+	
+	
+}
+
+.teachersExplainContainer{
+	margin: 0 auto;
+	width: 77%;
+}
+
+.teachersExplain p{
+	color: black;
+	font-family: 'Raleway', sans-serif;
+	width: 35.5%;
+	font-size: 16px;
+	text-align: left;
+	float: right;
+	position: relative;
+	bottom: 30px;
+	right: 133px;
+}
+
+.schoolTech{
+	background: #C51FD1; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left, #C51FD1 , #9279FC); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, #C51FD1, #9279FC); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, #C51FD1, #9279FC); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, #C51FD1 , #9279FC); /* Standard syntax */
+}
+
+.schoolTech h3{
+	color: white;
+	font-family: 'Varela Round', sans-serif;
+	font-size: 3vw;
+	margin: 0 auto;
+	width: 18%;
+	padding-top: 15%;
+}
+
+.schoolTech h1{
+	color: white;
+	font-family: 'Varela Round', sans-serif;
+	font-size: 4vw;
+	margin: 0 auto;
+	width: 27%;
+	padding-top: 5%;
+}
+
+.tSneak{
+	width: 30%;
+	height: 50px;
+	background: #E81C68; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left, #EF8663 , #E81C68); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, #EF8663, #E81C68); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, #EF8663, #E81C68); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, #EF8663 , #E81C68); /* Standard syntax */
+	border-radius: 5px;
+	margin: 0 auto;
+	margin-top: 10%;
+	transition: all .2s ease-in-out;
+}
+
+.tSneak:hover{
+	transform: scale(1.1);
+}
+
+.tSneak p{
+	color: white;
+	margin: 0 auto;
+	font-family: 'Raleway', sans-serif;
+	width: 240px;
+	padding-top: 15px;
+}
+
+.businessTech{
+	background: #84FEAE; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left, #27E5DD , #84FEAE); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, #27E5DD, #84FEAE); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, #27E5DD, #84FEAE); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, #27E5DD , #84FEAE); /* Standard syntax */
+}
+
+.businessTech h3{
+	color: white;
+	font-family: 'Varela Round', sans-serif;
+	font-size: 3vw;
+	margin: 0 auto;
+	width: 21%;
+	padding-top: 15%;
+}
+
+.businessTech h1{
+	color: white;
+	font-family: 'Varela Round', sans-serif;
+	font-size: 4vw;
+	margin: 0 auto;
+	width: 27%;
+	padding-top: 5%;
+}
+
+.businessExplain h3{
+	width: 40%;
+	float: left;
+	position: relative;
+	font-size: 37px;
+	text-align: left;
+	top: 190px;
+}
+
+.businessExplain p{
+	color: black;
+	font-family: 'Raleway', sans-serif;
+	width: 35.5%;
+	font-size: 18px;
+	text-align: left;
+	float: left;
+	position: relative;
+	margin-top: 40px;
+	top:190px;
+}
+
+.bExplainIcon{
+	width: 18%;
+	height: 24%;
+	position: relative;
+	float: right;
+	top: 250px;
+
+}
+
+.businessExplainContainer{
+	margin: 0 auto;
+	width: 77%;
+}
+
+.bSneak{
+	width: 30%;
+	height: 50px;
+	background: #3C78EA; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left, #3C78EA , #66C2D2); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, #3C78EA, #66C2D2); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, #3C78EA, #66C2D2); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, #3C78EA , #66C2D2); /* Standard syntax */
+	border-radius: 5px;
+	margin: 0 auto;
+	margin-top: 10%;
+	transition: all .2s ease-in-out;
+	
+}
+
+.bSneak:hover{
+	transform: scale(1.1);
+}
+
+.bSneak p{
+	color: white;
+	margin: 0 auto;
+	font-family: 'Raleway', sans-serif;
+	width: 190px;
+	padding-top: 15px;
+}
+
+.contactWindow h3{
+	color: black;
+	font-family: 'Muli', sans-serif;
+	margin: 0 auto;
+	font-size: 2vw;
+	width: 17%;
+	padding-top: 5%;
+	font-weight: 400;
+}
+
+.contactWindow h1{
+	color: black;
+	font-family: 'Muli', sans-serif;
+	margin: 0 auto;
+	width: 24.6%;
+	font-size: 2.6vw;
+	padding-top: 2%;
+	font-weight: 400;
+}
+
+.contactBox{
+	width: 30%;
+	height: 50px;
+	background: #3C78EA; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left, #3C78EA , #66C2D2); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, #3C78EA, #66C2D2); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, #3C78EA, #66C2D2); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, #3C78EA , #66C2D2); /* Standard syntax */
+	border-radius: 5px;
+	margin: 0 auto;
+	margin-top: 10%;
+	transition: all .2s ease-in-out;
+}
+
+.contactBox:hover{
+	transform: scale(1.1);
+}
+
+.contactBox p{
+	color: white;
+	font-family: 'Raleway',sans-serif;
+	margin: 0 auto;
+	width: 80px;
+	padding-top: 2%;
+	font-size: 1.5vw;
+	
+}
+
+.sadHome{
+	width: 210px;
+	height: 323px;
+	position: relative;
+	top: 50%;
+	margin-top: -170px;
+	margin-left: 17%;
+}
+
+.footer{
+	background: #356EEF;
+	/* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left, #356EEF , #65C8D0);
+	/* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, #356EEF, #65C8D0);
+	/* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, #356EEF, #65C8D0);
+	/* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, #356EEF , #65C8D0);
+	/* Standard syntax */
+	
+}
+
+.credits{
+	color: white;
+	font-family: "Varela Round", sans-serif;
+	font-size: 13px;
+	float: left;
+	position: relative;
+	top: 270px;
+	margin-left: 200px;
+	border-bottom: 1px solid white;
+	
+	
+	
+	
+	
+	
+}
+
+.credits:hover{
+	color: #cacbcd;
+	border-color:  #cacbcd;
+	
+}
+
+.realCredits{
+	color: #CACBCD;
+	float: left;
+	font-family: "raleway", sans-serif;
+	margin-left: 200px;
+}
+
+.meCredits{
+	color: white;
+	font-family: "Varela Round", sans-serif;
+	font-size: 13px;
+	float: right;
+	position: relative;
+	top: 270px;
+	margin-right: 200px;
+}
+
+.creditsContents p{
+	color: white;
+	font-family: "raleway", sans-serif;
+	font-size: 10px;
+}
+/*
+.iphone{
+	background-image: url("images/icons/Devices/iPhone.svg");
+}
+
+.ipad{
+	background-image: url("images/icons/Devices/iPad.svg");
+}
+
+.macbook{
+	background-image: url("images/icons/Devices/Macbook.svg");
+}
+
+.appletv{
+	background-image: url("images/icons/Devices/AppleTV.svg");
+}
+
+.applewatch{
+	background-image: url("images/icons/Devices/AppleWatch.svg");
+}
+
+.echo{
+	background-image: url("images/icons/Devices/AmazonEcho.svg");
+}
+*/

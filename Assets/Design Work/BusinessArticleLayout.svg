@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="612" height="792" viewBox="0, 0, 612, 792">
+  <defs>
+    <linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="396" x2="612" y2="396">
+      <stop offset="0" stop-color="#00E5DE"/>
+      <stop offset="0.001" stop-color="#00E5DE"/>
+      <stop offset="1" stop-color="#7FFFAB"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1">
+    <path d="M612,792 L0,792 L0,-0 L612,-0 z" fill="url(#Gradient_1)"/>
+    <g id="Heading">
+      <text transform="matrix(1, 0, 0, 1, 306, 65.075)">
+        <tspan x="-108.378" y="15.22" font-family="Nunito-Regular" font-size="46" fill="#FFFFFF">Continuity</tspan>
+        <tspan x="102.44" y="15.22" font-family="Nunito-Regular" font-size="46" kerning="0" fill="#FFFFFF"> </tspan>
+      </text>
+    </g>
+    <g id="Meat">
+      <text transform="matrix(1, 0, 0, 1, 306, 461.871)">
+        <tspan x="-233.962" y="-302.649" font-family="Raleway-Regular" font-size="21" fill="#FFFFFF">Personal Hotspot - Wi-Fi</tspan>
+        <tspan x="-233.962" y="-272.649" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">If you're wearing your Apple Watch, your Mac will know you're nearby and will </tspan>
+        <tspan x="-233.962" y="-258.649" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">automatically unlock itself for you.</tspan>
+        <tspan x="-233.962" y="-230.649" font-family="Raleway-Regular" font-size="12" fill="#FCFCFC">We are currently working on solutions to Personal Hotspot through Bluetooth </tspan>
+        <tspan x="-233.962" y="-216.649" font-family="Raleway-Regular" font-size="12" fill="#FCFCFC">connection and USB connection. At the moment, we only have solutions for Personal </tspan>
+        <tspan x="-233.962" y="-202.649" font-family="Raleway-Regular" font-size="12" fill="#FCFCFC">Hotspot through Wi-Fi connection. We are sorry for the inconvenience.</tspan>
+        <tspan x="-233.962" y="-168.649" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">Requirements</tspan>
+        <tspan x="-233.962" y="-126.649" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">	</tspan>
+        <tspan x="-205.962" y="-126.649" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">•</tspan>
+        <tspan x="-199.644" y="-126.649" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">To enable Personal Hotspot, you need An activated carrier plan providing </tspan>
+        <tspan x="-233.962" y="-111.649" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">Personal Hotspot service to one of these devices running iOS 8.1 or later:</tspan>
+        <tspan x="-233.962" y="-91.649" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">		</tspan>
+        <tspan x="-177.962" y="-91.649" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">-</tspan>
+        <tspan x="-170.366" y="-91.649" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF"> An iPhone 5 or later</tspan>
+        <tspan x="-233.962" y="-70.649" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">		</tspan>
+        <tspan x="-177.962" y="-70.649" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">-</tspan>
+        <tspan x="-170.366" y="-70.649" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF"> </tspan>
+        <tspan x="-167.306" y="-70.649" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">iPad 4 or later</tspan>
+        <tspan x="-233.962" y="-49.649" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">		</tspan>
+        <tspan x="-177.962" y="-49.649" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">-</tspan>
+        <tspan x="-170.366" y="-49.649" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF"> </tspan>
+        <tspan x="-167.678" y="-49.649" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">Any generation of iPad Mini</tspan>
+        <tspan x="-233.962" y="-28.649" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">	</tspan>
+        <tspan x="-205.962" y="-28.649" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">•</tspan>
+        <tspan x="-199.644" y="-28.649" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">To</tspan>
+        <tspan x="-186.552" y="-28.649" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF"> connect to a Personal Hotspot, you need one of these devices running iOS </tspan>
+        <tspan x="-233.962" y="-13.649" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">8 or later or, with a Mac, MacOS Yosemite or later:</tspan>
+        <tspan x="-233.962" y="6.351" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">		</tspan>
+        <tspan x="-177.962" y="6.351" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">-</tspan>
+        <tspan x="-170.366" y="6.351" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF"> </tspan>
+        <tspan x="-167.678" y="6.351" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">An iPhone 5 or later</tspan>
+        <tspan x="-233.962" y="27.351" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">		</tspan>
+        <tspan x="-177.962" y="27.351" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">-</tspan>
+        <tspan x="-170.366" y="27.351" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF"> </tspan>
+        <tspan x="-167.306" y="27.351" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">iPad 4 or later</tspan>
+        <tspan x="-233.962" y="48.351" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">		</tspan>
+        <tspan x="-177.962" y="48.351" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">-</tspan>
+        <tspan x="-170.366" y="48.351" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF"> Any generation of iPad Mini</tspan>
+        <tspan x="-233.962" y="69.351" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">		</tspan>
+        <tspan x="-177.962" y="69.351" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">-</tspan>
+        <tspan x="-170.366" y="69.351" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF"> </tspan>
+        <tspan x="-167.306" y="69.351" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">iPod Touch 5th generation or later</tspan>
+        <tspan x="-233.962" y="90.351" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">		</tspan>
+        <tspan x="-177.962" y="90.351" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">-</tspan>
+        <tspan x="-170.366" y="90.351" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF"> </tspan>
+        <tspan x="-167.678" y="90.351" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">Any Mac from 2012 or later</tspan>
+        <tspan x="-233.962" y="139.351" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">Set up Personal Hotspot - Wi-Fi</tspan>
+        <tspan x="-233.962" y="181.351" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">	•</tspan>
+        <tspan x="-199.644" y="181.351" font-family="Raleway-Regular" font-size="12" fill="#F8F8F8">Is Personal Hotspot enabled on your iPhone or iPad (Wi-Fi + Cellular) in </tspan>
+        <tspan x="-233.962" y="196.351" font-family="Raleway-Regular" font-size="12" fill="#F8F8F8">Settings &gt; Cellular &gt; Personal Hotspot?</tspan>
+        <tspan x="-233.962" y="216.351" font-family="Raleway-Regular" font-size="12" fill="#F8F8F8">	</tspan>
+        <tspan x="-205.962" y="216.351" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">•</tspan>
+        <tspan x="-199.644" y="216.351" font-family="Raleway-Regular" font-size="12" fill="#F8F8F8">Are your devices logged into iCloud using the same Apple ID?</tspan>
+        <tspan x="-233.962" y="237.351" font-family="Raleway-Regular" font-size="12" fill="#F8F8F8">	</tspan>
+        <tspan x="-205.962" y="237.351" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">•</tspan>
+        <tspan x="-199.644" y="237.351" font-family="Raleway-Regular" font-size="12" fill="#F8F8F8">Is Bluetooth enabled on both of your devices?</tspan>
+        <tspan x="-233.962" y="258.351" font-family="Raleway-Regular" font-size="12" fill="#F8F8F8">	</tspan>
+        <tspan x="-205.962" y="258.351" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">•</tspan>
+        <tspan x="-199.644" y="258.351" font-family="Raleway-Regular" font-size="12" fill="#F8F8F8">Are your devices connected to  Wi-Fi?</tspan>
+        <tspan x="-233.962" y="273.351" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">	</tspan>
+        <tspan x="-233.962" y="293.351" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">Connecting to Personal Hotspot - Wi-Fi</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

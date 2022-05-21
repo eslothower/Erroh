@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="612" height="792" viewBox="0, 0, 612, 792">
+  <defs>
+    <linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="395.999" x2="612" y2="395.999">
+      <stop offset="0" stop-color="#C700D4"/>
+      <stop offset="0.001" stop-color="#C700D4"/>
+      <stop offset="1" stop-color="#9274FF"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1">
+    <path d="M612,792 L0,792 L0,0 L612,0 z" fill="url(#Gradient_1)"/>
+    <g id="Heading">
+      <text transform="matrix(1, 0, 0, 1, 306, 65.075)">
+        <tspan x="-108.378" y="15.22" font-family="Nunito-Regular" font-size="46" fill="#FFFFFF">Continuity</tspan>
+        <tspan x="102.44" y="15.22" font-family="Nunito-Regular" font-size="46" kerning="0" fill="#FFFFFF"> </tspan>
+      </text>
+    </g>
+    <g id="Meat">
+      <text transform="matrix(1, 0, 0, 1, 306, 447.722)">
+        <tspan x="-233.962" y="-288.5" font-family="Raleway-Regular" font-size="21" fill="#FFFFFF">Auto Unlock</tspan>
+        <tspan x="-233.962" y="-258.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">If you're wearing your Apple Watch, your Mac will know you're nearby and will </tspan>
+        <tspan x="-233.962" y="-243.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">automatically unlock itself for you.</tspan>
+        <tspan x="-233.962" y="-209.5" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">Requirements</tspan>
+        <tspan x="-233.962" y="-167.5" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">	•</tspan>
+        <tspan x="-199.644" y="-167.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">An Apple Watch running watchOS 3 or later</tspan>
+        <tspan x="-233.962" y="-146.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">	</tspan>
+        <tspan x="-205.962" y="-146.5" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">•</tspan>
+        <tspan x="-199.644" y="-146.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">Any kind of Mac from mid-2013 or later running macOS Sierra 10.12 or later</tspan>
+        <tspan x="-233.962" y="-97.5" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">Set up Auto Unlock</tspan>
+        <tspan x="-233.962" y="-55.5" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">	•</tspan>
+        <tspan x="-199.644" y="-55.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">If this is your first time using Auto Unlock after you turned off, restarted, or </tspan>
+        <tspan x="-233.962" y="-40.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">logged out of your Mac, you will need to manually enter your password. From then, </tspan>
+        <tspan x="-233.962" y="-26.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">until you turn off, restart, or log out of your Mac, your Apple Watch will unlock your </tspan>
+        <tspan x="-233.962" y="-12.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">Mac for you. </tspan>
+        <tspan x="-233.962" y="7.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">	</tspan>
+        <tspan x="-205.962" y="7.5" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">•</tspan>
+        <tspan x="-199.644" y="7.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">Is your Apple ID using two-factor authentication and not two-step verification?</tspan>
+        <tspan x="-233.962" y="28.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">	</tspan>
+        <tspan x="-205.962" y="28.5" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">•</tspan>
+        <tspan x="-199.644" y="28.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">Is Bluetooth enabled on your Mac?</tspan>
+        <tspan x="-233.962" y="49.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">	</tspan>
+        <tspan x="-205.962" y="49.5" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">•</tspan>
+        <tspan x="-199.644" y="49.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">Is your Mac connected to  Wi-Fi?</tspan>
+        <tspan x="-233.962" y="70.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">	</tspan>
+        <tspan x="-205.962" y="70.5" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">•</tspan>
+        <tspan x="-199.644" y="70.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">Are both of your devices logged into iCloud with the same account?</tspan>
+        <tspan x="-233.962" y="91.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">	</tspan>
+        <tspan x="-205.962" y="91.5" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">•</tspan>
+        <tspan x="-199.644" y="91.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">Is your Apple Watch using a passcode?</tspan>
+        <tspan x="-233.962" y="112.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">	</tspan>
+        <tspan x="-205.962" y="112.5" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">•</tspan>
+        <tspan x="-199.644" y="112.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">Is Internet Sharing disabled on your Mac?</tspan>
+        <tspan x="-233.962" y="133.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">	</tspan>
+        <tspan x="-205.962" y="133.5" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">•</tspan>
+        <tspan x="-199.644" y="133.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">Click the Apple logo in the menu bar &gt; System Preferences &gt; Security and </tspan>
+        <tspan x="-233.962" y="148.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">Privacy &gt; General tab and make sure Allow your Apple Watch to unlock your Mac is </tspan>
+        <tspan x="-233.962" y="162.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">enabled.</tspan>
+        <tspan x="-233.962" y="213.5" font-family="Raleway-Regular" font-size="21" fill="#FFFFFF">Personal Hotspot	</tspan>
+        <tspan x="-233.962" y="254.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">By using your Personal Hotspot on you iPhone, other devices can connect to it to use </tspan>
+        <tspan x="-233.962" y="268.5" font-family="Raleway-Regular" font-size="12" fill="#FFFFFF">network features.</tspan>
+        <tspan x="-233.962" y="303.5" font-family="Raleway-Regular" font-size="18" fill="#FFFFFF">Requirements</tspan>
+      </text>
+    </g>
+    <path d="M72.538,630.292 L540.462,627.587" fill-opacity="0" stroke="#FFFFFF" stroke-width="1"/>
+  </g>
+</svg>

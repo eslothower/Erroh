@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="113" height="113" viewBox="0, 0, 113, 113">
+  <g id="Layer_1">
+    <g id="clock">
+      <path d="M109.5,56.154 C109.5,85.233 85.926,108.807 56.847,108.807 C27.767,108.807 4.193,85.233 4.193,56.154 C4.193,27.074 27.767,3.5 56.847,3.5 C85.926,3.5 109.5,27.074 109.5,56.154 z" fill-opacity="0" stroke="#4799D8" stroke-width="4"/>
+      <path d="M56.847,62.735 L56.847,29.827" fill-opacity="0" stroke="#4799D8" stroke-width="4" stroke-linecap="round"/>
+      <path d="M56.847,62.735 L64.363,44.476" fill-opacity="0" stroke="#4799D8" stroke-width="4" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>

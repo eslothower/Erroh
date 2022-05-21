@@ -1,0 +1,212 @@
+
+			@font-face { font-family: 'OpenSans-CondLight'; src: url('/Users/Eli/Desktop/My Websites/Ferror/Fonts/Open_Sans_Condensed/OpenSans-CondLight.ttf'); } 
+			@font-face { font-family: 'OpenSans-CondLight' ; src: url('/Users/Eli/Desktop/My Websites/Ferror/Fonts/Open_Sans_Condensed/OpenSans-CondLight.ttf');}
+			
+			@font-face { font-family: 'OpenSans-Regular'; src: url('/Users/Eli/Desktop/My Websites/Ferror/Fonts/Open_Sans/OpenSans-Regular.ttf'); } 
+			@font-face { font-family: 'OpenSans-Regular'; src: url('/Users/Eli/Desktop/My Websites/Ferror/Fonts/Open_Sans/OpenSans-Regular.ttf');}
+
+			@font-face { font-family: 'Raleway-Regular'; src: url('/Users/Eli/Desktop/My Websites/Ferror/Fonts/Raleway/Raleway-Regular.ttf'); } 
+			@font-face { font-family: 'Raleway-Regular'; src: url('/Users/Eli/Downloads/Raleway/Raleway-Regular.ttf');}
+
+			@font-face { font-family: 'Roboto-Light'; src: url('/Users/Eli/Desktop/My Websites/Ferror/Fonts/Roboto-Light.ttf'); } 
+			@font-face { font-family: 'Roboto-Light'; src: url('/Users/Eli/Desktop/My Websites/Ferror/Fonts/Roboto/Roboto-Light.ttf');}
+			
+			html, body{
+				margin: 0;
+				border: 0px;
+				padding: 0px;
+				background-color: #222222;
+			}
+			
+			a{
+				color: #222222;
+			}
+			
+			#header{
+				background-image: url("/Users/Eli/Desktop/My Websites/Ferror/Images/Ferror_Icon_Background_jpg.jpg");
+				background-size: cover;
+				width: 100%;
+				margin: 0px;
+				
+			}
+			
+			#clearBox{
+				background-color: rgba(255, 255, 255, 0.8);
+				width: 95%;
+				height: 40em;
+				margin: 0 auto;
+				text-align: center;
+				position: relative;
+				top: 20px;
+				border-radius:  47px;
+				text-align: center;
+			}
+			
+			#navbar{
+				margin: 0px;
+			}
+			
+			#logo{
+				list-style: none;
+				background-image: url("/Users/Eli/Desktop/My Websites/Ferror/Images/logo-black.png");
+				background-size: cover;
+				width: 70px;
+				height: 70px;
+				float: left;
+				position: relative;
+				top:-20px;
+				left: -10px;
+			}
+			
+			.navlis{
+				list-style: none;
+				float:right;
+				padding-top: 10px;
+				padding-bottom: 10px;
+				margin-right: 20px;
+				font-family: 'OpenSans-CondLight', sans-serif;
+				font-size: 110%;
+				text-align: center;
+				width: 100px;
+				border-radius: 50px;
+			}
+			
+			.pinkHover:hover{
+				background-color: #222222;
+				color: #E8918C;
+			}
+			
+			#headerH1{
+				font-family: 'Raleway-Regular', sans-serif;
+				font-weight: 400;
+				margin-top: 0px;
+				font-size: 300%;
+			}
+			
+			#headerP{
+				font-family: 'OpenSans-CondLight', sans-serif;
+				line-height: 34px;
+				font-size: 130%;
+				
+			}
+			
+			#topText{
+				padding-top: 70px;
+			}
+			
+			.buttons{
+				font-family: 'OpenSans-CondLight', sans-serif;
+				border-radius: 50px;
+				height: 90px;
+				width: 210px;
+
+			}
+			.buttons p{
+				padding-top: 13%;
+				font-size: 150%;
+			}
+							
+			#signUp{
+				background-color: #222222;
+				color: #E8918C;
+				margin: 250px 0 0 270px;
+			}
+			
+			#Explore{
+				background-color: #E8918C;
+				color: #222222;
+				margin: -115px 0 0 890px;
+			}
+			
+			#devicesBack{
+				height:1105px;
+				width: 800px;
+				background-color: white;
+				text-align: center;
+				margin: 70px auto;
+				border-radius: 15px;
+			}
+			
+
+			
+			.specs {
+				margin: 50px;
+				background-size: cover;
+				width: 550px;
+				height: 520px;
+				transition: all .2s ease-in-out;
+			}
+			.specs:hover { transform: scale(1.1); }
+			
+			#mac{
+				background-image: url("/Users/Eli/Desktop/My Websites/Ferror/Ferror-icons/Mac.png");
+			}
+			
+			#ipad{
+				background-image: url("/Users/Eli/Desktop/My Websites/Ferror/Ferror-icons/iPad Box.png");
+				position: relative;
+				top: -570px;
+				right: -390px;
+			}
+			
+			#appletv{
+				background-image: url("/Users/Eli/Desktop/My Websites/Ferror/Ferror-icons/Apple Tv.png");
+				position: relative;
+				top: -800px;
+				left: -3px;
+			}
+			
+			#board{
+				background-image: url("/Users/Eli/Desktop/My Websites/Ferror/Ferror-icons/Promethian Board.png");
+				position: relative;
+				top: -1370px;
+				left: 390px;
+			}
+			
+			#windows{
+				background-image: url("/Users/Eli/Desktop/My Websites/Ferror/Ferror-icons/Windows Icon.png");
+				position: relative;
+				top:-1600px;
+				left:180px;
+			}
+			
+			#provide{
+				background-color: #E8918C;
+				font-family: 'OpenSans-CondLight', sans-serif;
+				height: 550px;
+				margin-top: 250px;
+				width: 95%;
+			}
+			
+			#words1 h2{
+				color: white;
+				margin-left: 20px;
+				font-size: 2.0em;
+			}
+			
+			#GetStarted{
+				text-align: center;
+				height: 70px;
+				width: 200px;
+				background-color: #222222;
+				color: #E8918C;
+				border-radius: 50px;
+				line-height: 20px;
+				margin: 0 auto;
+				margin-top: 10%;
+			}
+			
+			#GetStarted p{
+				font-size: 130%;
+				padding-top: 20px;
+			}
+			
+			#darkPink{
+				width: 5%;
+				height: 550px;
+				background-color: #B97471;
+				position: relative;
+				top: -550px;
+				left: 95%;
+			}
+  
